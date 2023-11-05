@@ -1,5 +1,11 @@
 # @nextui-org/theme
 
+## 2.1.13
+
+### Patch Changes
+
+- [#1876](https://github.com/nextui-org/nextui/pull/1876) [`71807e883`](https://github.com/nextui-org/nextui/commit/71807e88317c40aadfeb134125be1def9d679956) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Theme plugin optimization applied to make it faster
+
 ## 2.1.12
 
 ### Patch Changes
